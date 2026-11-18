@@ -1,0 +1,12 @@
+{
+  "_comment": "First fixed builds per vendor and major version. Update as vendors publish fixes. Format: [major, ...update].",
+  "_sources": {
+    "Oracle": "Oracle Critical Security Patch Update, 17.11.2026 (via Tenable FAQ)"
+  },
+  "Oracle": {
+    "17": [17, 0, 21, 1],
+    "21": [21, 0, 13, 1],
+    "25": [25, 0, 5, 1],
+    "27": [27, 0, 1, 1]
+  }
+}
